@@ -1,7 +1,7 @@
 # Surewin-Blackjack
 An all in one blackjack training mobile application. Developed for Android
 
-Background
+# Background
 Blackjack has been one of the most popular casino banking game played.
 It traditionally uses decks of 52 cards. It is easy to play and the rules are
 simple.
@@ -20,10 +20,10 @@ allows users to play the game of blackjack with variants and aids.
 Some of the commonly used variants include, dealer hitting on soft-17,
 multiple deck shoe, etc. Aids will also be provided such as a card counter. Additional handicap to the dealer could also be implemented such that the probability of the player winning will be manipulated to as high as 100%.
 
-Objectives
-To provide a more rewarding gaming experience to general gamers
-To provide a comprehensive platform to train people to make better decisions in the game of blackjack
+# Objectives
+1. To provide a more rewarding gaming experience to general gamers </br>
+2. To provide a comprehensive platform to train people to make better decisions in the game of blackjack
 
-Screenshot </br>
+# Screenshot </br>
 ![mainpage](https://github.com/cwl2018/Surewin-Blackjack/blob/main/mp.png?raw=true)
 
