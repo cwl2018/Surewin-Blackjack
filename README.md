@@ -26,5 +26,5 @@ To provide a more rewarding gaming experience to general gamers
 To provide a comprehensive platform to train people to make better decisions in the game of blackjack
 
 Screenshot </br>
-![mainpage]([http://url/to/img.png](https://github.com/cwl2018/Surewin-Blackjack/blob/main/mp.png)https://github.com/cwl2018/Surewin-Blackjack/blob/main/mp.png)
+![mainpage]([http://url/to/img.png](https://github.com/cwl2018/Surewin-Blackjack/blob/main/mp.png)https://github.com/cwl2018/Surewin-Blackjack/blob/main/mp.png?raw=true)
 
