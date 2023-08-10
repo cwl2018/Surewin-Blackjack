@@ -1,6 +1,5 @@
 # Surewin-Blackjack
 An all in one blackjack training mobile application. Developed for Android
-https://drive.google.com/file/d/1eATwrGDo7WLPmZnTfaUY24XHd7A6nqHX/view?usp=sharing
 
 Background
 Blackjack has been one of the most popular casino banking game played.
